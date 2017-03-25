@@ -1,5 +1,5 @@
-#ifndef __detection3D__ferns__
-#define __detection3D__ferns__
+#ifndef __ferns__
+#define __ferns__
 
 #include <iostream>
 #include <string>
@@ -123,4 +123,4 @@ public:
 
 };
 
-#endif /* defined(__detection3D__ferns__) */
+#endif

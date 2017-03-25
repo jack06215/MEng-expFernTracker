@@ -1,5 +1,5 @@
-#ifndef __FFlow__bitcount__
-#define __FFlow__bitcount__
+#ifndef __bitcount__
+#define __bitcount__
 
 #include <iostream>
 
@@ -210,4 +210,4 @@ public:
 
 };
 
-#endif /* defined(__FFlow__bitcount__) */
+#endif

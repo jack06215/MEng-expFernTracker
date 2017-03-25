@@ -1,5 +1,5 @@
-#ifndef __detection3D__taylor__
-#define __detection3D__taylor__
+#ifndef __taylor__
+#define __taylor__
 
 #include <iostream>
 #include "training.h"
@@ -46,4 +46,4 @@ private:
 };
 
 
-#endif /* defined(__detection3D__taylor__) */
+#endif
